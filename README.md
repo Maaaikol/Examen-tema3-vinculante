@@ -167,7 +167,7 @@ Objetivos del Reto:
   <summary>LINK DEL REPOSITORIO:</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
-  [Repositorio GitHub](https://github.com/Maaaikol/README.git)
+  [Repositorio GitHub](https://github.com/Maaaikol/Examen-tema3-vinculante.git)
 
 </p>
 
