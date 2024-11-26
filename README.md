@@ -175,3 +175,7 @@ Objetivos del Reto:
 
 <img src="uax_logo_nuevo.png" alt="UAX Logo" width="400">
 
+<details>
+  <summary>Diagrama de Flujo(Representación del proyecto): </summary>
+  <img src="uax_logo_nuevo.png" alt="UAX Logo" width="400">
+</details>
